@@ -1,0 +1,15 @@
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\bin\Debug\net6.0\PrjHelloWorld.exe
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\bin\Debug\net6.0\PrjHelloWorld.deps.json
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\bin\Debug\net6.0\PrjHelloWorld.runtimeconfig.json
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\bin\Debug\net6.0\PrjHelloWorld.dll
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\bin\Debug\net6.0\PrjHelloWorld.pdb
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.csproj.AssemblyReference.cache
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.AssemblyInfoInputs.cache
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.AssemblyInfo.cs
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.dll
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\refint\PrjHelloWorld.dll
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.pdb
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\PrjHelloWorld.genruntimeconfig.cache
+C:\Users\kailany.smoraes\source\repos\SolutionHelloWorld\PrjHelloWorld\obj\Debug\net6.0\ref\PrjHelloWorld.dll
