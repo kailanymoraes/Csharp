@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\kailany.smoraes\\source\\repos\\SolutionHelloWorld\\PrjHelloWorld\\PrjHelloWorld.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.2",
       "restore": {
         "projectUniqueName": "C:\\Users\\kailany.smoraes\\source\\repos\\SolutionHelloWorld\\PrjHelloWorld\\PrjHelloWorld.csproj",
         "projectName": "PrjHelloWorld",
@@ -13,8 +13,12 @@
         "packagesPath": "C:\\Users\\kailany.smoraes\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kailany.smoraes\\source\\repos\\SolutionHelloWorld\\PrjHelloWorld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\kailany.smoraes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\kailany.smoraes\\source\\repos": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
